@@ -58,6 +58,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 -->
 
+[Resource 1](https://web.dev/learn/design/typography?hl=pt-br) - This helped me in fixing and finding the ideal size of characters limit in each line.
+
 ### Built with
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
@@ -65,10 +67,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
 
 ## Features
 
