@@ -58,13 +58,14 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 -->
 
-[Resource 1](https://web.dev/learn/design/typography?hl=pt-br) - This helped me in fixing and finding the ideal size of characters limit in each line.
-
+[Typography Web Dev](https://web.dev/learn/design/typography?hl=pt-br) - This helped me in fixing and finding the ideal size of characters limit in each line.
+[Shay Howe's Advanced Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/) - Looking out at this site I could take a general view of options I could use instead of relying only on classes and ID's.
+[CSS units: em, rem, and px](https://codyloyd.com/2021/css-units/) - Yhis helped me choose the appropriate unit for a specific element size.
 ### Built with
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- Semantic HTML5 markup
+- HTML5 markup
 - CSS custom properties
 - Flexbox
 
@@ -77,6 +78,10 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+[Odin Project](https://www.theodinproject.com/dashboard)
+[CSS Peeper](https://chromewebstore.google.com/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) - Plugin/Add-on
+[VS Code](https://code.visualstudio.com/)
+Chrome Dev tools
 
 ## Author
 
